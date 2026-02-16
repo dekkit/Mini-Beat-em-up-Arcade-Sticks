@@ -1,11 +1,13 @@
 # Mini-Beat-em-up-Arcade-Sticks
-3D Printable mini arcade sticks for use with your favorite emulators and DIY projects.   Intended for beat'em up style arcade games, which need less buttons than your conventional fighting stick. 
+3D Printable mini arcade sticks for use with your favorite emulators and DIY projects.   Intended for beat'em up style arcade games, which need less buttons than your conventional fighting stick.
 
-The following 3D files will enable you print as many beat'em up sticks are you need.
+This small size and 4 button layout is ideal for 4p+ arcade games like TMNT, Simpsons, NBA Jam, Xmen etc.
 
-- Top - Curved with Dome - Flat back 3001.stl  (Printer notes: suggest to print vertical with the flat back on the printer bed - this will provide the best curved print-  no supports needed)
-- Middle - 3mm holes.stl  (Printer note: will need build plate supports for the cable hole and screw tabs)
-- Bottom - filled - 3mm.stl (Printer note: no supports needed)
+The following 3D files will enable you print as many beat'em up sticks are you need (each part will take about 3-6hrs to print depending on quality and print speed).
+
+- **Top - Curved with Dome.stl**  (Printer notes: suggest to print vertical with the flat back on the printer bed - this will provide the best curved print-  no supports needed)
+- **Middle - 3mm holes.stl** (Printer note: will need build plate supports for the cable hole and screw tabs)
+- **Bottom - filled - 3mm.stl** (Printer note: no supports needed)
 
 Printer Settings
 - Print with PLA or PETG, only the top part should be printed vertical.
