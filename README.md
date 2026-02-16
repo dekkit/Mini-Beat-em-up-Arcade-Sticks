@@ -17,7 +17,7 @@ Parts
 - 4 x 30mm arcade buttons (or equivalent note: holes are 30mm)
 - 2 x 24mm arcade buttons (for Coin / Start)
 - 1 x Encoder PCB (either purchase one from ebay/ali or make your own arduino based arcade encoder (ie plenty of cool projects like [Demonbite ](https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB or see my other projects if you want to make a DIY arduino  XBOX 360 for PC usb encoder etc)
-- 4 x M3 self tapping screws (~5mm in length - suggest to buy a box of varying lengths to allow for printing differences). Alternatively you can use various glue to affix the top on.
+- 8 x M3 self tapping screws (~5mm in length - suggest to buy a box of varying lengths to allow for printing differences). Alternatively you can use various glue to affix the top on or even 4 long screws.
 - 4 x rubber feet to avoid scratching tables etc. 
   
 <img width="605" height="678" alt="image" src="https://github.com/user-attachments/assets/a6f0afc3-6303-4b10-95fb-ffe6444e84e4" />
