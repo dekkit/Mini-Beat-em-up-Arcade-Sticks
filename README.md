@@ -18,7 +18,7 @@ The following 3D files will enable you print as many beat'em up sticks are you n
 - 4 x  Arcade joystick mounting bolts  (or an equivalent from hardware shop) - these are easily purchased cheaply via ebay/ali.
 - 4 x 30mm arcade buttons (or equivalent note: holes are 30mm)
 - 2 x 24mm arcade buttons (for Coin / Start)
-- 1 x Encoder PCB (either purchase one from ebay/ali or make your own arduino based arcade encoder (ie plenty of cool projects like [Demonbite ](https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB or see my other projects if you want to make a DIY arduino  XBOX 360 for PC usb encoder etc)
+- 1 x Encoder PCB (either purchase one from ebay/ali or make your own arduino based arcade encoder (ie plenty of cool projects like [Demonbite ](https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB or see my other projects if you want to make a DIY arduino  XBOX 360 for PC usb encoder https://github.com/dekkit/Arcade-to-Xbox360-PC-USB-Encoder/)
 - 8 x M3 self tapping screws (~5mm in length - suggest to buy a box of varying lengths to allow for printing differences). Alternatively you can use various glue to affix the top on or even 4 long screws.
 - 4 x rubber feet to avoid scratching tables etc. 
 
